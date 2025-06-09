@@ -29,4 +29,9 @@
         display: block;
     }
 
+    .rodape__texto {
+        text-align: justify;
+        margin: 1em 0;
+    }
+
 }
